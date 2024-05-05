@@ -1,0 +1,17 @@
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.deps.json
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.dll
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\refint\SistemaVenta.Utility.dll
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\ref\SistemaVenta.Utility.dll
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaV.10E87F00.Up2Date
