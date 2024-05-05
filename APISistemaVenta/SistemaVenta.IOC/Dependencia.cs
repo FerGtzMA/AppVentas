@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SistemaVenta.DAL.DBContext;
+using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,8 @@ using System.Threading.Tasks;
 
 using SistemaVenta.DAL.Repositorios.Contrato;
 using SistemaVenta.DAL.Repositorios;
+
+using SistemaVenta.Utility;
 
 namespace SistemaVenta.IOC
 {
@@ -27,6 +30,8 @@ namespace SistemaVenta.IOC
 
             // Para la venta
             services.AddScoped<IVentaRepository, VentaRepository>();
+
+            services.AddAutoMapper(typeof(AutoMapperProfile)) ;
         }
     }
 }

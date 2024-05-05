@@ -7,6 +7,7 @@ C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVent
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.sourcelink.json
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb

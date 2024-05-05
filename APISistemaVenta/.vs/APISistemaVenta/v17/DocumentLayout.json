@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CC41748-1C36-4C2A-A9A4-64BED6492EEF}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CC41748-1C36-4C2A-A9A4-64BED6492EEF}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6891410F-93F5-466B-BEFE-26F7C7F44C17}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.utility\\sistemaventa.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6891410F-93F5-466B-BEFE-26F7C7F44C17}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\sistemaventa.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CFE65F-55E5-49E0-937C-A0BB035E6ECA}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.ioc\\sistemaventa.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08CFE65F-55E5-49E0-937C-A0BB035E6ECA}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\sistemaventa.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CFE65F-55E5-49E0-937C-A0BB035E6ECA}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CFE65F-55E5-49E0-937C-A0BB035E6ECA}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6891410F-93F5-466B-BEFE-26F7C7F44C17}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6891410F-93F5-466B-BEFE-26F7C7F44C17}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Model\\Rol.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Model\\Rol.cs",
-              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Model\\Rol.cs",
-              "RelativeToolTip": "SistemaVenta.Model\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Title": "SistemaVenta.Utility",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+              "RelativeDocumentMoniker": "SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+              "RelativeToolTip": "SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T19:36:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaVenta.IOC",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+              "RelativeToolTip": "SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T19:40:36.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:18:09.564Z",
+              "WhenOpened": "2024-05-05T19:10:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:03:16.634Z",
               "EditorCaption": ""
             }
           ]

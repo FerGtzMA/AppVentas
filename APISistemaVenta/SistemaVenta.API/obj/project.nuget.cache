@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "dEBvqFg9cCNeCsJMkxtDHlVC8TXfryjj7IpjKpRdBzCatDzsvyomX2pZAr9b1zwQgu1VPywrbKkTzbQio5p9cA==",
+  "dgSpecHash": "8+lzwZ4U9ToEKMiE85bJ0h1Kh/DIX+hjjjD/m/tZYPXMpRL4JwOdBaaXfu3qhjBZiYmPBx+eRRnRgMzAKOvKpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yahir\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\yahir\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\yahir\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yahir\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\yahir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\yahir\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\yahir\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\yahir\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
     "C:\\Users\\yahir\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\yahir\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
