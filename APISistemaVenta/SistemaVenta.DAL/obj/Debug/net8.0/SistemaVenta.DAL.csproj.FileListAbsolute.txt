@@ -13,3 +13,4 @@ C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVent
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.sourcelink.json

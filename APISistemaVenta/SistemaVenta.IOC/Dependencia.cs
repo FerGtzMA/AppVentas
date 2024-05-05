@@ -8,6 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using SistemaVenta.DAL.Repositorios.Contrato;
+using SistemaVenta.DAL.Repositorios;
+
 namespace SistemaVenta.IOC
 {
     public static class Dependencia
@@ -18,6 +21,12 @@ namespace SistemaVenta.IOC
             {
                 options.UseSqlServer(configuration.GetConnectionString("conexion"));
             });
+
+            // Para cualquier modelo
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
+            // Para la venta
+            services.AddScoped<IVentaRepository, VentaRepository>();
         }
     }
 }

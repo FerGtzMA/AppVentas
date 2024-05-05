@@ -80,3 +80,4 @@ C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVent
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\yahir\OneDrive\Escritorio\FullProjectVentas\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.sourcelink.json
