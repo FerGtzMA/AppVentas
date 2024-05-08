@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "SistemaVenta.API\\Program.cs",
               "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
               "RelativeToolTip": "SistemaVenta.API\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAADAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T00:49:46.86Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\MenuController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:46:29.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:46:29.789Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\DashBoardController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:44:24.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:44:24.514Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\VentaController.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAQwEMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:36:08.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:36:08.279Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\ProductoController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:31:49.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:31:49.795Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAkwHUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:25:51.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T23:25:51.73Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\RolController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:14:01.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T23:14:01.813Z"
             }
           ]
         }
