@@ -1,0 +1,46 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+        <h1>Sistema venta</h1>
+
+        <button mat-icon-button (click)="sidenav.toggle();">
+            <mat-icon>menu</mat-icon>
+        </button>
+    </mat-toolbar-row>
+</mat-toolbar>
+
+<mat-sidenav-container>
+    <mat-sidenav #sidenav opened="true" mode="side" style="width: 200px;">
+        <mat-nav-list>
+            <mat-list-item routerLink="/pages/dashboard">
+                <mat-icon class="inline-element">dashboard</mat-icon>
+                <div class="inline-element">DashBoard</div>
+            </mat-list-item>
+            <mat-list-item routerLink="/pages/usuarios">
+                <mat-icon class="inline-element">group</mat-icon>
+                <div class="inline-element">Usuarios</div>
+            </mat-list-item>
+            <mat-list-item routerLink="/pages/productos">
+                <mat-icon class="inline-element">collections_bookmark</mat-icon>
+                <div class="inline-element">Productos</div>
+            </mat-list-item>
+            <mat-list-item routerLink="/pages/venta">
+                <mat-icon class="inline-element">currency_exchange</mat-icon>
+                <div class="inline-element">Venta</div>
+            </mat-list-item>
+            <mat-list-item routerLink="/pages/historial_venta">
+                <mat-icon class="inline-element">edit_note</mat-icon>
+                <div class="inline-element">Historial ventas</div>
+            </mat-list-item>
+            <mat-list-item routerLink="/pages/reportes">
+                <mat-icon class="inline-element">receipt</mat-icon>
+                <div class="inline-element">Reportes</div>
+            </mat-list-item>
+        </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <div style="height: 90vh;">
+            <router-outlet></router-outlet>
+        </div>
+    </mat-sidenav-content>
+</mat-sidenav-container>
