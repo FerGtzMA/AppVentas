@@ -27,7 +27,8 @@ import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core'; 
 import { MomentDateModule } from '@angular/material-moment-adapter'; 
 import { LayoutModule } from '@angular/cdk/layout'; 
-import { Router, RouterOutlet } from '@angular/router';
+import { Router, RouterModule, RouterOutlet } from '@angular/router';
+import { ModalUsuarioModule } from '../../Components/layout/Modales/modal-usuario/modal-usuario.module';
 
 @NgModule({
   declarations: [
@@ -58,8 +59,11 @@ import { Router, RouterOutlet } from '@angular/router';
     MatDatepickerModule,
     MatNativeDateModule,
     MomentDateModule,
-    LayoutModule,
-    RouterOutlet
+    /* LayoutModule, */
+    RouterOutlet,
+    CommonModule,
+    RouterModule
+    
   ],
   exports: [
     CommonModule,
@@ -87,7 +91,9 @@ import { Router, RouterOutlet } from '@angular/router';
     MatNativeDateModule,
     MomentDateModule,
     LayoutModule,
-    RouterOutlet
+    RouterOutlet,
+    CommonModule,
+    RouterModule
   ],
   providers: [
     MatDatepickerModule,
