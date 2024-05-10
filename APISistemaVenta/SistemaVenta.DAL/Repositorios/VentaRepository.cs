@@ -40,7 +40,7 @@ namespace SistemaVenta.DAL.Repositorios
 
                     NumeroDocumento correlativo = _dbContext.NumeroDocumentos.First();
 
-                    correlativo.UltimoNumero = correlativo.UltimoNumero++;
+                    correlativo.UltimoNumero = correlativo.UltimoNumero + 1;
                     correlativo.FechaRegistro = DateTime.Now;
 
                     _dbContext.NumeroDocumentos.Update(correlativo);

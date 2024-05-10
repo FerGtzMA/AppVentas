@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C8A648F-00A5-4AF4-BBF9-799E7D6E8C48}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8A648F-00A5-4AF4-BBF9-799E7D6E8C48}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C87277E-6B75-4F6B-B97B-3724E72D0AA6}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C87277E-6B75-4F6B-B97B-3724E72D0AA6}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952D3D7-7D79-462B-A58C-91B28C2C12B9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952D3D7-7D79-462B-A58C-91B28C2C12B9}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6891410F-93F5-466B-BEFE-26F7C7F44C17}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|c:\\users\\yahir\\onedrive\\escritorio\\fullprojectventas\\apisistemaventa\\sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6891410F-93F5-466B-BEFE-26F7C7F44C17}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:10:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:07:59.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.DTO\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\VentaDTO.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.DTO\\VentaDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\VentaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:07:52.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
               "RelativeDocumentMoniker": "SistemaVenta.Model\\Producto.cs",
@@ -42,25 +93,24 @@
               "RelativeToolTip": "SistemaVenta.Model\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T02:59:56.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T02:59:56.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "SistemaVenta.Utility\\AutoMapperProfile.cs",
               "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
               "RelativeToolTip": "SistemaVenta.Utility\\AutoMapperProfile.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAIAwwEEAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T02:59:31.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.DTO\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DTO\\ProductoDTO.cs",
@@ -68,12 +118,11 @@
               "RelativeToolTip": "SistemaVenta.DTO\\ProductoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T02:57:20.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T02:57:20.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
@@ -81,12 +130,11 @@
               "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T21:19:20.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T21:19:20.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
               "RelativeDocumentMoniker": "SistemaVenta.API\\Program.cs",
