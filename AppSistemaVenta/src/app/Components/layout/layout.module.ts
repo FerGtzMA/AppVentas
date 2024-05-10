@@ -10,6 +10,9 @@ import { HistorialVentaComponent } from './Pages/historial-venta/historial-venta
 import { ProductoComponent } from './Pages/producto/producto.component';
 import { ReporteComponent } from './Pages/reporte/reporte.component';
 import { VentaComponent } from './Pages/venta/venta.component';
+import { ModalProductoComponent } from './Modales/modal-producto/modal-producto.component';
+import { ModalProductoModule } from './Modales/modal-producto/modal-producto.module';
+import { ModalUsuarioModule } from './Modales/modal-usuario/modal-usuario.module';
 
 @NgModule({
   declarations: [
@@ -23,7 +26,9 @@ import { VentaComponent } from './Pages/venta/venta.component';
   imports: [
     CommonModule,
     LayoutRoutingModule,
-    SharedModule
+    SharedModule,
+    ModalProductoModule,
+    ModalUsuarioModule
   ]
 })
 export class LayoutModule { }
