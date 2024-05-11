@@ -13,6 +13,7 @@ import { VentaComponent } from './Pages/venta/venta.component';
 import { ModalProductoComponent } from './Modales/modal-producto/modal-producto.component';
 import { ModalProductoModule } from './Modales/modal-producto/modal-producto.module';
 import { ModalUsuarioModule } from './Modales/modal-usuario/modal-usuario.module';
+import { ModalDetalleVentaModule } from './Modales/modal-detalle-venta/modal-detalle-venta.module';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { ModalUsuarioModule } from './Modales/modal-usuario/modal-usuario.module
     LayoutRoutingModule,
     SharedModule,
     ModalProductoModule,
-    ModalUsuarioModule
+    ModalUsuarioModule,
+    ModalDetalleVentaModule
   ]
 })
 export class LayoutModule { }

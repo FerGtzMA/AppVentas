@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
               "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\FullProjectVentas\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
               "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAAsAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T05:10:34.55Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\VentaService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T05:07:59.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T05:07:59.398Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "SistemaVenta.DTO\\VentaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T05:07:52.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T05:07:52.458Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "SistemaVenta.Utility\\AutoMapperProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T02:59:31.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T02:59:31.635Z"
             },
             {
               "$type": "Document",
