@@ -28,6 +28,7 @@ import { MatNativeDateModule } from '@angular/material/core';
 import { MomentDateModule } from '@angular/material-moment-adapter'; 
 import { LayoutModule } from '@angular/cdk/layout'; 
 import { RouterModule, RouterOutlet } from '@angular/router';
+import { MatTableExporterModule } from 'mat-table-exporter';
 
 @NgModule({
   declarations: [
@@ -61,7 +62,6 @@ import { RouterModule, RouterOutlet } from '@angular/router';
     LayoutModule, 
     RouterOutlet,
     RouterModule
-    
   ],
   exports: [
     CommonModule,
@@ -90,7 +90,8 @@ import { RouterModule, RouterOutlet } from '@angular/router';
     MomentDateModule,
     LayoutModule,
     RouterOutlet,
-    RouterModule
+    RouterModule,
+    MatTableExporterModule
   ],
   providers: [
     MatDatepickerModule,

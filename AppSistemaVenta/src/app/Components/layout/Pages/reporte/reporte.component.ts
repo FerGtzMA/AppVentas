@@ -84,6 +84,6 @@ export class ReporteComponent implements AfterViewInit{
   }
 
   /* exportarExcel(){
-
+    const wb = XLSX.utils.
   } */
 }
